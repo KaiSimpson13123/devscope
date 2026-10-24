@@ -9,6 +9,7 @@ out/
 build/
 dist/
 next-env.d.ts
+*.tsbuildinfo
 
 # Local Database & Runtime State (Never commit personal monitoring data)
 .devscope/
